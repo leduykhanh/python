@@ -1,0 +1,6 @@
+20140613020119 moving C:\Users\LEDU0_000\Desktop\python/new\3 SQL questions.doc to C:\Users\LEDU0_000\Desktop\python/used\3 SQL questions.doc
+20140613020119 moving C:\Users\LEDU0_000\Desktop\python/new\Assignment (1).docx to C:\Users\LEDU0_000\Desktop\python/used\Assignment (1).docx
+20140613020119 moving C:\Users\LEDU0_000\Desktop\python/new\sss.txt to C:\Users\LEDU0_000\Desktop\python/used\sss.txt
+20140613020129 moving C:\Users\LEDU0_000\Desktop\python/new\3 SQL questions.doc to C:\Users\LEDU0_000\Desktop\python/used\3 SQL questions.doc
+20140613020129 moving C:\Users\LEDU0_000\Desktop\python/new\Assignment (1).docx to C:\Users\LEDU0_000\Desktop\python/used\Assignment (1).docx
+20140613020129 moving C:\Users\LEDU0_000\Desktop\python/new\sss.txt to C:\Users\LEDU0_000\Desktop\python/used\sss.txt
